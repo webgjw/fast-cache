@@ -1,1 +1,1 @@
-window.FastCache=class{constructor(){this.list={}}set(t,s){this.list[t]=s}get(t){return this.list[t]}};
+window.FastCache=class{constructor(){this.list={}}set(t,s){this.list[t]=s}get(t){return this.list[t]}clear(){this.list={}}};

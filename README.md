@@ -9,6 +9,7 @@
 
 - 下载地址 https://github.com/webgjw/fast-cache/tags
 - `npm install fast-cache-gjw`
+- CDN https://unpkg.com/fast-cache-gjw/release/bundle.js
 
 ## 快速使用
 
