@@ -8,6 +8,7 @@
 ## 安装下载
 
 - 下载地址 https://github.com/webgjw/fast-cache/tags
+- `npm install fast-cache-gjw`
 
 ## 快速使用
 
