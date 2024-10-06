@@ -7,6 +7,8 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/webgjw/fast-cache/tags
+
 ## 快速使用
 
 简单接入文档
