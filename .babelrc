@@ -1,4 +1,10 @@
 {
-    "presets": ["@babel/preset-env", "latest"],
-    "plugins": []
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets": "> 0.25%, not dead"
+            }
+        ]
+    ]
 }
